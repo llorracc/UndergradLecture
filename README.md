@@ -11,11 +11,17 @@
 
 * [Janet-Yellen](https://images.app.goo.gl/uM6uhEnV9LBoHcNP7)
 
+* [Campbell-Shiller-Paper](http://www.econ.yale.edu/~shiller/online/jpmalt.pdf)
+
 [JHU](https://images.app.goo.gl/9nPWSMpQUmnodYZa9)
+
+* [CampbellShillerReduxWeb](http://www.econ2.jhu.edu/people/ccarroll/opinion/CampbellShillerReduxWeb/)
 
 [CEA](https://www.whitehouse.gov/cea/)
 
 * [Christie-Romer](https://images.app.goo.gl/FHdUuRyuduHAfLoW7)
+
+* [Economic-Report-Of-The-President-2010](https://obamawhitehouse.archives.gov/administration/eop/cea/economic-report-of-the-President/2010)
 
 [CFPB](https://images.app.goo.gl/jnwwqJJCBt4cahYC7)
 
