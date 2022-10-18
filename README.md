@@ -31,3 +31,12 @@
 
 [JHU](https://images.app.goo.gl/9nPWSMpQUmnodYZa9)
 
+
+---
+
+[The Buffer-Stock Theory of Saving: Some Macroeconomic Evidence](https://www.brookings.edu/bpea-articles/the-buffer-stock-theory-of-saving-some-macroeconomic-evidence/)
+
+* [TractableBufferStock](https://llorracc.github.io/TractableBufferStock/TractableBufferStock3.html#x3-150043)
+
+[Buffer-Stock Saving and the Life Cycle/Permanent Income Hypothesis](https://www.jstor.org/stable/2951275)
+
